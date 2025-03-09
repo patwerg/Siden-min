@@ -1,0 +1,22 @@
+html { font-size: 16px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif }
+    
+    
+        body{ background-color: #cbbfcbd0;
+            color: rgb(114, 34, 95);
+        }
+    
+        .styled-heading {
+            color: white;
+            text-shadow: 2px 2px 0 #040102, /* Pink shadow */
+                         -2px -2px 0 #ee0808, 
+                         2px -2px 0 #790707, 
+                         -2px 2px 0 #5b0407;
+        }       
+    
+        img {
+            border: 2px solid #f5f1f3; /* Pink border */
+            padding: 5px; 
+            background-color: #fffafc;/* Pink padding */
+            margin: 10px;
+        }

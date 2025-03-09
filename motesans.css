@@ -1,0 +1,21 @@
+html { font-size: 16px }
+
+
+    body{ background-color: #f2eb15ef;
+        color: rgba(3, 65, 48, 0.943);
+    }
+
+    .styled-heading {
+        color: white;
+        text-shadow: 2px 2px 0 #040102, /* Pink shadow */
+                     -2px -2px 0 #ff69df, 
+                     2px -2px 0 #db25ff, 
+                     -2px 2px 0 #e11af3;
+    }       
+
+    img {
+        border: 2px solid #f5f1f3; /* Pink border */
+        padding: 5px; 
+        background-color: #c93fff;/* Pink padding */
+        margin: 10px;
+    }
